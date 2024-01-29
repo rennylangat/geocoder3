@@ -10,7 +10,7 @@ make sure to activate Maps SDK for android and ios and geocode api from  <a href
 
 ## Code Example
 ```dart
-import 'package:geocoder2/geocoder2.dart';
+import 'package:geocoder3/geocoder3.dart';
 ```
 
 ## Get Data Form Coordinates
