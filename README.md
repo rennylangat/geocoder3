@@ -78,6 +78,6 @@ If you don't have GOOGLE_MAP_API_KEY then you will use [*geocoder_buddy*]('https
 
 ### Buy Me A Coffee
 
-<a href="https://www.buymeacoffee.com/flutterbuddy">
+<a href="https://www.buymeacoffee.com/rennylngtt">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="50" target="_flutterbuddy">
 </a>
