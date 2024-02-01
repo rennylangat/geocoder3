@@ -1,4 +1,4 @@
-# geocoder2
+# geocoder3
 
 **Easy forward and reverse geocodeing From google maps api**
 make sure to activate Maps SDK for android and ios and geocode api from  <a href="https://console.cloud.google.com">Google Cloud Console</a> 
@@ -10,12 +10,12 @@ make sure to activate Maps SDK for android and ios and geocode api from  <a href
 
 ## Code Example
 ```dart
-import 'package:geocoder2/geocoder2.dart';
+import 'package:geocoder3/geocoder3.dart';
 ```
 
 ## Get Data Form Coordinates
 ```dart
-    GeoData data = await Geocoder2.getDataFromCoordinates(
+    GeoData data = await Geocoder3.getDataFromCoordinates(
         latitude: 40.714224,
         longitude: -73.961452,
         googleMapApiKey: "GOOGLE_MAP_API_KEY");
@@ -42,7 +42,7 @@ import 'package:geocoder2/geocoder2.dart';
 ```
 ## Get Data From Address
 ```dart
-    GeoData data = await Geocoder2.getDataFromAddress(
+    GeoData data = await Geocoder3.getDataFromAddress(
         address: "277 Bedford Ave, Brooklyn, NY 11211, USA",
         googleMapApiKey: "GOOGLE_MAP_API_KEY");
     
@@ -78,6 +78,6 @@ If you don't have GOOGLE_MAP_API_KEY then you will use [*geocoder_buddy*]('https
 
 ### Buy Me A Coffee
 
-<a href="https://www.buymeacoffee.com/flutterbuddy">
+<a href="https://www.buymeacoffee.com/rennylngtt">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="50" target="_flutterbuddy">
 </a>
